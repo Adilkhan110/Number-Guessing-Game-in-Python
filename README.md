@@ -1,3 +1,8 @@
+<h1>Number Guessing Game in Python</h1>
+<img width="258" height="92" alt="Win" src="https://github.com/user-attachments/assets/9ddc9509-2d78-4fad-b03b-51c603f26e58" />
+
+<img width="264" height="226" alt="Game-Over" src="https://github.com/user-attachments/assets/5176345b-c617-4449-8ce0-ab4e9e8ed018" />
+
 ![logo](https://github.com/Adilkhan110/Adilkhan110/blob/main/github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Adil Khan</h1>
